@@ -1,2 +1,3 @@
 # Synthetic-Data-Generation-by-Supervised-Neural-Gas-Network
-Synthetic Data Generation by Supervised Neural Gas Network for Physiological Emotion Recognition Data 
+Synthetic Data Generation by Supervised Neural Gas Network for Physiological Emotion Recognition Data .
+# This project is under development.
