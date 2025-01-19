@@ -1,6 +1,11 @@
 # Synthetic Data Generation by Supervised Neural Gas Network for Physiological Emotion Recognition Data 
 
+<div align="justify">
+  
 This repository contains the implementation of a Supervised Neural Gas (SNG) network designed for synthetic data generation to address data scarcity in the field of emotion recognition using physiological signals. Our approach utilizes physiological signals such as EEG, ECG, and GSR to generate synthetic datasets that closely mimic real-world distributions.
+
+</div>
+
 ![image](https://github.com/user-attachments/assets/e479e8f4-4d55-4e2f-94f1-53194f5c9e6e)
 ![image](https://github.com/user-attachments/assets/640cd215-08cf-4b22-a619-d5b779e3beb3)
 
