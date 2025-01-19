@@ -8,7 +8,7 @@ This repository contains the implementation of a Supervised Neural Gas (SNG) net
 - **Efficient Synthetic Data Generation**: Leveraging the Supervised Neural Gas network, our method generates synthetic instances that effectively reflect the intrinsic patterns of physiological emotion data.
 - **Robust Emotion Recognition**: Supports robust model development and generalization across different populations and environments.
 - **Fast Processing**: Demonstrated to provide significant improvements in processing time compared to established models like Conditional VAE, Conditional GAN, and others.
-![image](https://github.com/user-attachments/assets/b6e96422-1055-46c1-a069-5ab3c27c1770)
+![image](https://github.com/user-attachments/assets/a9448c57-776c-4ab1-b54f-8d36bead3fcb)
 ![image](https://github.com/user-attachments/assets/61e15079-71db-42cb-9bd1-93ba25dc6a29)
 
 
